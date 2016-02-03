@@ -5,3 +5,10 @@ But the Mummy will appreciate the lack of humiditiy
 Take the popcorn home:-).
 Thank you! I would offer you an SFU book bag but I took it home already
 No worries. I got a book bag yesterday and don't have enough books to put in it.
+
+I'm never going to remember all of this!! My instructions:
+git pull origin master --> get the file from GitHub
+nano mars.txt --> update the file 
+git add mars.txt
+git commit -m "Some note"
+git push origin master
